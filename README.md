@@ -8,3 +8,4 @@ A music player built with **HTMLAudioElement** API and custom design.
 + Play and Pause
 + Switch between songs
 
+## Screenshots
